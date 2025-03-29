@@ -1,29 +1,3 @@
-# Comparative Analysis of Authentication Protocols
-
-This table provides a feature-wise comparison of four different authentication protocols from various research papers.
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: center;
-  }
-  th {
-    background-color: #2C3E50;
-    color: white;
-    font-weight: bold;
-  }
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-  tr:hover {
-    background-color: #D6EAF8;
-  }
-</style>
 
 <table>
   <tr>
